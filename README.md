@@ -1,19 +1,7 @@
 # Marcus Paulo Pereira de Oliveira
 
-Hello there! 👋 I'm Marcus Paulo Pereira de Oliveira, a coder who started coding out of sheer boredom and never looked back.
+Hello! 👋 I'm Marcus Paulo Pereira de Oliveira, a developer passionate about technology and building efficient solutions. My focus is on creating scalable applications while prioritizing quality, performance, and best development practices. I believe in continuous learning and innovation to write clean, maintainable code.
 
-## About Me
-
-- 💻 Coding Enthusiast: I began my coding journey as a cure for boredom and fell in love with the process.
-- 🚀 Exploring the Unseen: I find excitement in uncovering the unexplored and pushing the boundaries of what's possible.
-- ⚖️ Balancing Act: As a programmer, I believe in maintaining a balance between health, performance, and morale.
-
-## Current Focus
-
-Right now, I'm diving deep into NextJs
-
-## Let's Connect
-
-Feel free to explore my repositories and connect with me. I'm always open to collaborations and discussions.
-
+Feel free to check out my repositories and reach out for discussions or collaborations.
+ 
 Happy coding! 🚀
