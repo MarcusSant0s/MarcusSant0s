@@ -1,7 +1,4 @@
 # Marcus Paulo Pereira de Oliveira
 
-Hello! 👋 I'm Marcus Paulo Pereira de Oliveira, a developer passionate about technology and building efficient solutions. My focus is on creating scalable applications while prioritizing quality, performance, and best development practices. I believe in continuous learning and innovation to write clean, maintainable code.
-
-Feel free to check out my repositories and reach out for discussions or collaborations.
- 
-Happy coding! 🚀
+Desenvolvedor Java back-end, com foco em Spring Boot, Hibernate, Docker e AWS. Construindo minha transição pra tech com consistência — certificação AWS Cloud Practitioner, inglês em desenvolvimento e projetos práticos com stack voltada pro mercado.
+Acredito que disciplina e contexto difícil formam dev melhor do que curso alheio.
